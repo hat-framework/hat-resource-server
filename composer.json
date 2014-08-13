@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "resource\server\\": "src/"
+            "resource\\server\\": "src/"
         }
     }
 }
